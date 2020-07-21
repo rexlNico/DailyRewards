@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="DailyRewards">
+    <output-path>F:/McServerProgramm/servers/1.12.2/plugins</output-path>
+    <root id="archive" name="DailyRewards.jar">
+      <element id="module-output" name="Daily Rewards" />
+    </root>
+  </artifact>
+</component>
